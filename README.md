@@ -41,6 +41,9 @@ var cerebrux = Profile{
 }
 ```
 ---
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=f5397103f674&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+---
+---
 ## 🎯 Current Goals
 
 - 🧠 Diving deep into Arduino Development
@@ -48,7 +51,6 @@ var cerebrux = Profile{
 - 📚 Writing technical blogs and tutorials
 - 🚀 Learning APL and systems programming
 
----
 
 ## 🏆 GitHub Trophies
 
